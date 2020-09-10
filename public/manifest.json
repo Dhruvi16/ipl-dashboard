@@ -1,6 +1,6 @@
 {
-  "name": "vue-black-dashboard",
-  "short_name": "vue-black-dashboard",
+  "name": "ipl-dashboard",
+  "short_name": "ipl-dashboard",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
